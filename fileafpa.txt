@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 bonjour les amis
 
 je suis sur Git
+=======
+je vais bien
+>>>>>>> e46b5538383e9789bdf5216da8c85d10c92c2b5f
